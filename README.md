@@ -10,7 +10,7 @@ This project turns your ESP32 into a compact GPS tracking hub using a NEO-6M mod
 - GPS Integration: UART2 (RX2=16, TX2=17) used to interface with the NEO-6M module via TinyGPS++
 - 
 # Interactive Map UI:
-- 
+
 - 📍 Show current location instantly
 - 🔴 Toggle live tracking with dynamic updates every second
 - 🌐 Map rendered using OpenStreetMap + Leaflet.js
