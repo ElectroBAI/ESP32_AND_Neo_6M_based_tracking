@@ -13,7 +13,7 @@ This project turns your ESP32 into a compact GPS tracking hub using a NEO-6M mod
 
 - 📍 Show current location instantly
 - 🔴 Toggle live tracking with dynamic updates every second
-- 🌐 Map rendered using OpenStreetMap + Leaflet.js
+- 🌐 Map rendered using OpenStreetMap + Leaflet.js and also with many more services.
 - Toolbar Controls:
 - Bottom navigation bar with buttons and satellite status display
 - Responsive design with dark mode support
