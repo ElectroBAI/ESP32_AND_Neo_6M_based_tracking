@@ -28,4 +28,3 @@ This project turns your ESP32 into a compact GPS tracking hub using a NEO-6M mod
 - Modern button styling and animations
 - Satellite fix status icon
 - Toast-style notifications on interaction
-Wanna take it further, Electro? We could integrate motion trails, store paths in SPIFFS, or even add OTA updates and mobile-friendly dashboards. Just say the word. 😎
